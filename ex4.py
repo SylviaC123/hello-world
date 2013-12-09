@@ -8,4 +8,5 @@ cars_not_driven = cars - drivers
 print "There are", cars, "cars available."
 print "There are", drivers, "drivers available."
 print "We have", passengers, "to transport today."
+print "There will be", cars_not_driven, "unused cars today."
 
