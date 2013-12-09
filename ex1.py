@@ -1,0 +1,11 @@
+## This file follows exercises from 'Learn Python the Hard Way."
+print "Hello there!"
+cars = 100
+spaces = 4
+drivers = 30
+passengers = 90
+cars_not_driven = cars - drivers
+print "There are", cars, "cars available."
+print "There are", drivers, "drivers available."
+print "We have", passengers, "to transport today."
+
