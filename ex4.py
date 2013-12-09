@@ -1,4 +1,4 @@
-## This file follows exercises from 'Learn Python the Hard Way."
+## This file follows exercises from Chapter 4 of 'Learn Python the Hard Way."
 print "Hello there!"
 cars = 100
 spaces = 4
