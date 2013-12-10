@@ -9,3 +9,15 @@ print y
 
 print "I said: %r." % x
 print "I also said: '%s'." % y
+
+hilarious = False
+math_evaluation = "Does 4 plus 4 equal 5? %r"
+
+print math_evaluation % hilarious
+
+## Concatenating strings
+
+x = "This is the left side of "
+y = "a string with two sides."
+
+print x + y
